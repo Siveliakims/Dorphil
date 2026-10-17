@@ -1,8 +1,8 @@
 const menuItems = [
   {
-    name: "Nshima & Local Chicken",
+    name: "Nshima & Local Chicken With Vegetables",
     category: "Zambian Favourites",
-    price: "K 85",
+    price: "K 95",
     description: "Traditional nshima served with locally sourced chicken.",
     image: "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=1200&q=80",
     popular: true
@@ -10,15 +10,15 @@ const menuItems = [
   {
     name: "Nshima & Fish",
     category: "Zambian Favourites",
-    price: "K 90",
+    price: "K 95",
     description: "A classic Zambian combination featuring local fish.",
     image: "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=1200&q=80",
     popular: true
   },
   {
-    name: "Chicken Schnitzel",
+    name: "Chicken Schnitzel With Chips Salads",
     category: "Chicken & Meat",
-    price: "K 110",
+    price: "K 150",
     description: "Crispy chicken schnitzel served with a fresh side.",
     image: "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=1200&q=80",
     popular: false
@@ -26,16 +26,16 @@ const menuItems = [
   {
     name: "Pizza",
     category: "Pizza",
-    price: "K 120",
+    price: "K 200",
     description: "Freshly cooked pizza with a golden crust.",
     image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80",
     popular: true
   },
   {
-    name: "Chips",
+    name: "T Bone With Chips Salads",
     category: "Sides",
-    price: "K 25",
-    description: "Hot, crispy chips served fresh.",
+    price: "K 150",
+    description: "Hot, crispy chips served fresh with T Bone.",
     image: "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=1200&q=80",
     popular: false
   },
@@ -61,8 +61,8 @@ const galleryItems = [
   { src: "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=1200&q=80", alt: "Nshima and chicken" },
   { src: "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=1200&q=80", alt: "Nshima and fish" },
   { src: "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80", alt: "Pizza" },
-  { src: "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=1200&q=80", alt: "Chicken schnitzel" },
-  { src: "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=1200&q=80", alt: "Chips" },
+  { src: "https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&w=1200&q=80", alt: "Chicken schnitzel With Chips Salads" },
+  { src: "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=1200&q=80", alt: "T Bone With Chips Salads" },
   { src: "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=80", alt: "Daily special" }
 ];
 
